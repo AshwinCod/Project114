@@ -1,0 +1,10 @@
+canvas{
+    animation-name: Project114;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 40px;
+}
+@keyframes Project114{
+   from{box-shadow: 1px 1px 38px red}
+    to{box-shadow: 1px 1px 38px blue}
+}
